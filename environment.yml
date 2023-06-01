@@ -1,0 +1,14 @@
+name: ETH-ScopeM_Masina
+
+channels:
+  - conda-forge
+      
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - pillow
+  - joblib
+  - pip
